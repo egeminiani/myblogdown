@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://erum2020elena.netlify.app/"
 languageCode = "en-us"
 title = "My awesome website"
 theme = "hugo-lithium"
