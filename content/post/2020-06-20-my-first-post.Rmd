@@ -1,0 +1,16 @@
+---
+title: My first post
+author: Elena Geminiani
+date: '2020-06-20'
+slug: my-first-post
+categories: []
+tags: []
+---
+
+any text with a link to [RStudio](https://www.rstudio.com).
+
+```{r echo=TRUE}
+x <- rnorm(100)
+plot(x)
+```
+
